@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "slate-packages",
+  "name": "avizura-slate-packages",
   "workspaces": [
     "packages/*"
   ],
